@@ -1,0 +1,11 @@
+# Node
+node_modules
+npm-debug.log
+dist
+
+# Env files
+.env
+backend/config/firebase-service.json
+
+# Build output
+frontend/dist
